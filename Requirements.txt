@@ -1,10 +1,10 @@
 streamlit
+pdfplumber
 spacy
-PyPDF2
+scikit-learn
 sqlalchemy
 pandas
-scikit-learn
-pdfplumber
-sentence-transformers
+
+
 
 
