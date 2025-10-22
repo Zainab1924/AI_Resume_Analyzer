@@ -1,8 +1,10 @@
-streamlit==1.39.0
-pandas
-PyPDF2==3.0.1
-sqlalchemy
+streamlit
 spacy
+PyPDF2
+sqlalchemy
+pandas
 scikit-learn
+pdfplumber
+sentence-transformers
 
 
