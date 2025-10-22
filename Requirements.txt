@@ -1,6 +1,7 @@
 streamlit
+pandas
 PyPDF2
 sqlalchemy
 spacy
 scikit-learn
-pandas
+python-dotenv
